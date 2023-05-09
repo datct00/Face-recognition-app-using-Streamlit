@@ -1,4 +1,4 @@
-./dlib-19.22.99-cp38-cp38-win_amd64.whl
+./dlib_compiled_binary/dlib-19.22.99-cp38-cp38-win_amd64.whl
 opencv-python
 cmake
 pyyaml
