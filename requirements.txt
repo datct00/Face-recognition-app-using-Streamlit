@@ -1,5 +1,6 @@
 opencv-python
-pyyaml
-face-recognition
-streamlit
 cmake
+pyyaml
+streamlit
+face-recognition
+
