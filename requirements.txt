@@ -3,5 +3,5 @@ cmake
 pyyaml
 streamlit==1.22.0
 dlib
-# face-recognition
+face_recognition
 
