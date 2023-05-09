@@ -2,3 +2,4 @@ opencv-python
 pyyaml
 face-recognition
 streamlit
+cmake
