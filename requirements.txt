@@ -1,4 +1,3 @@
-./dlib_compiled_binary/dlib-19.22.99-cp39-cp39-win_amd64.whl
 opencv-python
 cmake
 pyyaml
