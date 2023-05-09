@@ -4,10 +4,14 @@ This is a face recognition application built using Python and Streamlit framewor
 
 ## Features
 
-  Face detection and recognition
+- Face detection and recognition
 - Multi-face recognition
 - Option to display recognized faces
 - User-friendly interface
+
+## Requirements 
+- Python 3.9
+- Streamlit 1.22.0
 
 ## Installation
 1. Clone the repository
