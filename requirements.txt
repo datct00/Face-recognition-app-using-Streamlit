@@ -1,0 +1,4 @@
+opencv-python
+pyyaml 
+streamlit 
+face-recognition 
