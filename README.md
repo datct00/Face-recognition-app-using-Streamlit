@@ -12,7 +12,8 @@ This is a face recognition application built using Python and Streamlit framewor
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/chungtiendat8102000/Face-recognition-app-using-Streamlit.git
+cd Face-recognition-app-using-Streamlit
 ```
 
 2. Install the dependencies
@@ -22,13 +23,15 @@ pip install -r requirements.txt
 
 3. Run the app
 ```bash
-streamlit run app.py
+streamlit run Tracking.py
 ```
 
 ## Usage
-1. Upload an image containing faces
-2. Wait for the app to perform face detection and recognition
-3. View the recognized faces (if any)
+1. Tracking real-time using webcam 
+2. Tracking using a image file 
+3. Updating database (adding, deleting and updating)
+4. Viewing the database
+
 
 ## Demo
 [Click here](https://pages.github.com/) to watch a demo of the app.
@@ -37,4 +40,4 @@ streamlit run app.py
 Contributions are always welcome! If you would like to contribute to this project, please open an issue to discuss your ideas or submit a pull request.
 
 ## License
-This project is licensed under the MIT [License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
