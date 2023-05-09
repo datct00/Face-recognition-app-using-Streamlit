@@ -1,4 +1,4 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
+pip==23.1.2
 ./dlib_compiled_binary/dlib-19.22.99-cp39-cp39-win_amd64.whl
 opencv-python
 cmake
