@@ -1,4 +1,0 @@
-opencv-python
-streamlit 
-pyyaml 
-face-recognition
