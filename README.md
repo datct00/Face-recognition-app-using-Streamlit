@@ -30,7 +30,7 @@ This is a face recognition application built using Python and Streamlit framewor
 ```
 
 ## Description
-- **dataset**: contains images of people to be recognized.
+- **dataset**: contains images of people to be recognized. The file name format is ID_Name.jpg. `For example, 1_Elon_Musk.jpg, 2_Jenna_Ortega.jpg, 3_Bill_Gates.jpg, etc.`
 - **pages**: contains the code for each page of the app.
 - **config.yaml**: contains the configuration for the app such as path of dataset dir and prompt messages.
 - **requirements.txt**: contains the dependencies for the app.
