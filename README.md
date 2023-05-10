@@ -21,7 +21,7 @@ This is a face recognition application built using Python and Streamlit framewor
 ├───pages
 │   ├───1_🔧_Updating.py
 │   └───2_💾_Database
-├───👁️_Tracking.py
+├───Tracking.py
 │───utils.py
 ├───config.yaml 
 ├───requirements.txt
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 3. Run the app
 ```bash
-streamlit run 👁️_Tracking.py
+streamlit run Tracking.py
 ```
 
 ## Usage
