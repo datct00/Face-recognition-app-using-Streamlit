@@ -38,7 +38,7 @@ streamlit run Tracking.py
 
 
 ## Demo
-[Click here](https://pages.github.com/) to watch a demo of the app.
+[Click here](https://chungtiendat8102000-face-recognition-app-using--tracking-9380y2.streamlit.app/) to watch a demo of the app.
 
 ## Contributing
 Contributions are always welcome! If you would like to contribute to this project, please open an issue to discuss your ideas or submit a pull request.
