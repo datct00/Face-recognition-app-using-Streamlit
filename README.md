@@ -77,8 +77,5 @@ streamlit run Tracking.py
 
 4. Deployed app on Streamlit Cloud. [Click here](https://datct00-face-recognition-app-using-streamlit-tracking-sel9ym.streamlit.app/) to watch a demo of the app.
 
-## Contributing
-Contributions are always welcome! If you would like to contribute to this project, please open an issue to discuss your ideas or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## Contact
+If you have any questions, feel free to contact me via email: `chungtiendat8102000@gmail.com`
