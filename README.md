@@ -16,8 +16,8 @@ This is a face recognition application built using Python and Streamlit framewor
 ## Repository structure
 ```bash
 ├───dataset
-|   |───ID_Name.jpg
-|   |───...
+│   │───ID_Name.jpg
+│   │───...
 ├───pages
 │   ├───1_🔧_Updating.py
 │   └───2_💾_Database
@@ -25,7 +25,7 @@ This is a face recognition application built using Python and Streamlit framewor
 ├───config.yaml 
 ├───requirements.txt
 ├───👁️_Tracking.py
-|───utils.py
+│───utils.py
 └───packages.txt
 ```
 
