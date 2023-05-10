@@ -13,6 +13,32 @@ This is a face recognition application built using Python and Streamlit framewor
 - Python 3.9
 - Streamlit 1.22.0
 
+## Repository structure
+```bash
+├───dataset
+|   |───ID_Name.jpg
+|   |───...
+├───pages
+│   ├───1_🔧_Updating.py
+│   └───2_💾_Database
+├───README.md
+├───config.yaml 
+├───requirements.txt
+├───👁️_Tracking.py
+|───utils.py
+└───packages.txt
+```
+
+## Description
+- **dataset**: contains images of people to be recognized.
+- **pages**: contains the code for each page of the app.
+- **config.yaml**: contains the configuration for the app such as path of dataset dir and prompt messages.
+- **requirements.txt**: contains the dependencies for the app.
+- **packages.txt**: contains the packages for the app used to deploy on Streamlit Cloud.
+- **Tracking.py**: home page of the app, using for tracking real-time using webcam and picture.
+- **utils.py**: contains the functions utilized by the app.
+
+
 ## Installation
 1. Clone the repository
 ```bash
