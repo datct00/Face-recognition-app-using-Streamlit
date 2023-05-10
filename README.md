@@ -67,7 +67,16 @@ streamlit run 👁️_Tracking.py
 ## Demo
 # Image
 
-1. ![Tracking using webcam](assets/tracking.png) 
+1.  Tracking using camera
+![Tracking using webcam](assets/webcam.gif) 
+
+2. Tracking using picture 
+![Tracking using picture](assets/tracking.png)
+
+3. Adding new person to database
+![Adding new person to database](assets/adding.png)
+
+4. Deployed app on Streamlit Cloud
 [Click here](https://chungtiendat8102000-face-recognition-app-using--tracking-9380y2.streamlit.app/) to watch a demo of the app.
 
 ## Contributing
