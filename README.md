@@ -31,7 +31,7 @@ This is a face recognition application built using Python and Streamlit framewor
 
 ## Description
 - **dataset**: contains images of people to be recognized. The file name format is ID_Name.jpg. `For example, 1_Elon_Musk.jpg, 2_Jenna_Ortega.jpg, 3_Bill_Gates.jpg, etc.` It is freely to use jpg, jpeg or png format.
-- **pages**: contains the code for each page of the app. If you want to add more pages, you can create a new file which format is `Order_Icon_Pagename` in this folder.
+- **pages**: contains the code for each page of the app. If you want to add more pages, you can create a new file which format is `Order_Icon_Pagename` in this folder, or just no-icon page with format `Order_Pagename`.
 - **Tracking.py**: home page of the app, using for tracking real-time using webcam and picture.
 - **utils.py**: contains the functions utilized by the app.
 - **config.yaml**: contains the configuration for the app such as path of dataset dir and prompt messages.
