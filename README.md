@@ -65,7 +65,6 @@ streamlit run 👁️_Tracking.py
 
 
 ## Demo
-# Image
 
 1.  Tracking using camera
 ![Tracking using webcam](assets/webcam.gif) 
