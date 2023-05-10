@@ -21,12 +21,12 @@ This is a face recognition application built using Python and Streamlit framewor
 ├───pages
 │   ├───1_🔧_Updating.py
 │   └───2_💾_Database
-├───README.md
-├───config.yaml 
-├───requirements.txt
 ├───👁️_Tracking.py
 │───utils.py
-└───packages.txt
+├───config.yaml 
+├───requirements.txt
+├───packages.txt
+└───README.md
 ```
 
 ## Description
