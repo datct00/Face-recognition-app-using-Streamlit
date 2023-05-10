@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 3. Run the app
 ```bash
-streamlit run Tracking.py
+streamlit run 👁️_Tracking.py
 ```
 
 ## Usage
@@ -65,6 +65,9 @@ streamlit run Tracking.py
 
 
 ## Demo
+# Image
+
+1. 1[Tracking using webcam](assets/tracking.png) 
 [Click here](https://chungtiendat8102000-face-recognition-app-using--tracking-9380y2.streamlit.app/) to watch a demo of the app.
 
 ## Contributing
