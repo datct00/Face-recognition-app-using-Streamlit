@@ -12,6 +12,7 @@ This is a face recognition application built using Python, [Face-Recognition API
 ## Requirements 
 - Python 3.9
 - Streamlit 1.22.0
+- face_recognition 
 
 ## Repository structure
 ```bash
